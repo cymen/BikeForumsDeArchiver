@@ -9,10 +9,15 @@ Q&A
 ---
 
 Q: Why not simply redirect from the search result directly to the thread bypassing the archive page?
+
 A: The extension only has permissions to www.bikeforums.net/archive/*. Having it do this would require permissions to multiple search engines plus additional support if the links to the archive content are not direct.
 
+
 Q: Does the back button still work?
+
 A: Yes, the back button still works.
 
+
 Q: Does it show anything in the user interface?
+
 A: No, this functionality is simple enough that there are no icons to clutter up the user interface as there is nothing to configure.
