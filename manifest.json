@@ -1,6 +1,6 @@
 {
   "name": "BikeForums.net DeArchiver",
-  "version": "0.6",
+  "version": "1.0",
   "manifest_version": 2,
   "description": "Automatically redirect to non-archive version of page on bikeforums.net",
   "background": {
